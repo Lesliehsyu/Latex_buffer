@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Zoom's Strategy}{3}{0}{1}
+\beamer@sectionintoc {2}{Macro Trends/ PESTEL}{4}{0}{2}
+\beamer@sectionintoc {3}{Industry Analysis}{6}{0}{3}
+\beamer@sectionintoc {4}{Resource and Capabilities}{15}{0}{4}
